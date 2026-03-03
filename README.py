@@ -1,4 +1,4 @@
-💳 AI Fraud Detection in Finance System
+#AI Fraud Detection in Finance System
 
 A complete AI-driven framework for detecting, analyzing, and preventing financial fraud using Traditional AI (Meta-Heuristic Optimization & Reinforcement Learning) and Generative AI techniques.
 
@@ -6,7 +6,7 @@ This project was developed as part of an AI Data-Driven Application assignment t
 
 ⸻
 
-🧭 Table of Contents
+#Table of Contents
 	•	Overview￼
 	•	System Architecture￼
 	•	Features￼
@@ -21,7 +21,7 @@ This project was developed as part of an AI Data-Driven Application assignment t
 
 ⸻
 
-🏦 Overview
+##Overview
 
 The AI Fraud Detection in Finance System integrates meta-heuristic algorithms, reinforcement learning, and generative AI to provide a comprehensive solution for transaction monitoring, fraud detection, and risk mitigation.
 
@@ -34,4 +34,4 @@ Key Objectives:
 
 ⸻
 
-⚙️ System Architecture
+##System Architecture
